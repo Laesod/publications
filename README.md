@@ -1,6 +1,6 @@
 # Publications
 
-- [articles](articles/README.md)
+- [articles in scientific magazines](articles/README.md)
 
 # Статьи в материалах конференций
 
