@@ -10,7 +10,8 @@
 Dobrynin S.A., Kolubaev E.A., Smolin A.Y., Dmitriev A.I., Psakhie S.G.
 Technical Physics Letters. 2010. Т. 36. № 7. С. 606-609.
 
-3. **STUDY OF THE POSSIBILITY TO IDENTIFY NANO-SCALE PORES ON THE BASIS OF FRICTION FORCE ANALYSIS**
+3. **ИЗУЧЕНИЕ ВОЗМОЖНОСТИ ИДЕНТИФИКАЦИИ НАНОСКОПИЧЕСКИХ ПОР НА ОСНОВЕ АНАЛИЗА СИЛЫ ТРЕНИЯ**
+(**STUDY OF THE POSSIBILITY TO IDENTIFY NANO-SCALE PORES ON THE BASIS OF FRICTION FORCE ANALYSIS**)
 Сергеев В.В., Смолин А.Ю., Добрынин С.А., Коростелев С.Ю., Псахье С.Г.
 Вестник Томского государственного университета. Математика и механика. 2010. № 4 (12). С. 116-122.
 [PDF](https://github.com/Laesod/publications/blob/master/articles/VestnikTGU2010N4.pdf)
